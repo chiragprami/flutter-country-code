@@ -1,8 +1,7 @@
-name: country_code
+name: country_code_list
 description: A new Flutter plugin.
 version: 1.0.0
-author:
-homepage:
+homepage: https://github.com/chiragprami/flutter-country-code
 
 environment:
   sdk: ">=2.7.0 <3.0.0"

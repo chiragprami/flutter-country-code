@@ -1,7 +1,7 @@
 import 'dart:async';
 import 'dart:convert';
 
-import 'package:country_code/CountryModel.dart';
+import 'package:country_code_list/CountryModel.dart';
 import 'package:flutter/services.dart';
 import 'package:flutter/widgets.dart';
 
